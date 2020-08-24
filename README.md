@@ -1,5 +1,6 @@
 # Front-End-HTML
 **Content:** *HTML Tutorial for beginners*
+
 **Browser:** Google Chrome
 
 ***Example 1:***
@@ -17,3 +18,14 @@
 ***Example 4:***
 * Learn using Unordered list.
 * Learn using Order list and its various types.  
+
+***Example 5:***
+* Adding image from local machine.
+* Adding image via hotlink. 
+
+***Example 6:***
+* Creating a form.
+* Add different types of button or dropdown. 
+
+***Example 7:***
+* Creating a table.
