@@ -29,3 +29,6 @@
 
 ***Example 7:***
 * Creating a table.
+* Adding link.
+* Adding anchor link.
+* Adding iframes.
